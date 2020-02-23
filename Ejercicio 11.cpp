@@ -20,10 +20,10 @@ int main(){
 			printf("\nLa pendiente es: %d",m);
 		}
 		else{
-			printf("\nLa recta es vertical");
+			printf("\nLa recta es horizontal");
 		}
 	}
 	else{
-		printf("\nLa recta es horizontal");
+		printf("\nLa recta es vertical");
 	}
 }
